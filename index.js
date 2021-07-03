@@ -434,7 +434,7 @@ const Game = Phaser.Class({
 
         alertify({
             title: "Doggo Rescued! \n\n   Don't forget to buy me a Coffee🙂.",
-            text: `Congratulations! You have successfully rescued Doggo with ${this.score} points! \n\n In just a couple of taps, you can make payment and leave a message.\n you don't have to create an account`,
+            text: `Congratulations! You have successfully rescued Doggo with ${this.score} points! \n\n In just a couple of taps, you can buy me a coffee and leave a message.\n you don't have to create an account`,
            
             confirmButtonText: "Thank you! ❣",
             onConfirmed: () => {
