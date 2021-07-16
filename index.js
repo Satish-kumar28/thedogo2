@@ -645,7 +645,7 @@ new Phaser.Game({
         default: "arcade",
         arcade: {
             gravity: {
-                y: 550
+                y: 225
             },
             debug: false
         }
