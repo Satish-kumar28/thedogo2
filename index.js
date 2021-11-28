@@ -3,7 +3,7 @@ const Game = Phaser.Class({
 
     initialize: function(){
         this.level = 2;
-        this.score = 0;
+        this.score = 0;  
         this.initScore = 0;
         this.started = false;
 
